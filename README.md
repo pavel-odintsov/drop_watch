@@ -1,2 +1,1 @@
-# drop_watch
-Fork of https://github.com/nhorman/dropwatch
+This repos is not offical repository, please use [offical repository](https://github.com/nhorman/dropwatch)
